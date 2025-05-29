@@ -14,8 +14,10 @@ Spendora is a full-stack web application that analyzes any Ethereum wallet addre
 - 📊 Wallet timeline + protocol interaction visualization
 - 💡 Personalized DeFi/NFT recommendations
 - 📄 One-click PDF report export
-
 ---
+
+## Demo Site: https://wallet-persona.vercel.app/
+
 
 ## 🧰 Tech Stack
 
