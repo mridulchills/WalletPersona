@@ -76,7 +76,7 @@ const Index = () => {
       <div className="relative z-10 container mx-auto px-4 py-8 flex flex-col justify-center min-h-screen">
         <div className="text-center mb-12">
           <h1 className="text-6xl md:text-8xl font-bold bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent mb-6 animate-fade-in">
-            WalletPersona
+            Spendora
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-4 animate-fade-in delay-150">
             Discover your wallet's secret personality
